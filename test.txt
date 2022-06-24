@@ -56,7 +56,7 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 喵搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_GitCafe","name":"
 📜
-小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfdb40b7a79b4748a2f60daa30a3a74f"},
+小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"cfdb40b7a79b4748a2f60daa30a3a74f"},
 {"key":"csp_biubiu_哔嘀影视","name":"
 📮
 哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/哔嘀影视.json"},
