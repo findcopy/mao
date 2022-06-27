@@ -1,4 +1,5 @@
 {
+"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 "spider":"https://findcopy.github.io/mao/0625.jar",
 
 "sites":[
@@ -1713,7 +1714,8 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 {"name":"百视通电竞","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1"]}
 ]}
 ],
-  "parses": [
+
+"parses": [
     {
       "name": "解析聚合",
       "type": 3,
